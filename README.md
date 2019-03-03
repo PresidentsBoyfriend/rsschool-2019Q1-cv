@@ -1,1 +1,1 @@
-# https://github.com/PresidentsBoyfriend/rsschool-2019Q1-cv/blob/gh-pages/cv.md
+# [link] (https://presidentsboyfriend.github.io/rsschool-2019Q1-cv/cv) 
