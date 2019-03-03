@@ -1,1 +1,1 @@
-# [link] (https://presidentsboyfriend.github.io/rsschool-2019Q1-cv/cv) 
+# [link](https://presidentsboyfriend.github.io/rsschool-2019Q1-cv/cv) 
