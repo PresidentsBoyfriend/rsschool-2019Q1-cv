@@ -120,7 +120,7 @@ table.info {
   font-family: 'Pacifico', cursive;
 }
 
-#contactsWithMe {
+.contactsWithMe {
   text-decoration: none;
   color: black;
 }
