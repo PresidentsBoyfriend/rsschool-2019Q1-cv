@@ -6,10 +6,9 @@
 @media screen and (max-width: 1282px) {
   body { background-size: cover; }
 }
- 
-body{ 
 
-  background: url(https://images.wallpaperscraft.ru/image/kaktus_minimalizm_tsvetok_113381_3840x2400.jpg) 50% 80% no-repeat;
+body{ 
+  background: url(assets/2.jpg) 50% 80% no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -36,7 +35,7 @@ table .textNyName {
 }
 
 .profilePage {
-  background-image: url(https://pp.userapi.com/c850616/v850616203/1bfde/eoB9A2H-AsA.jpg);
+  background-image: url(assets/3.jpg);
   background-size: cover;
   background-position: center;
   width: auto;
